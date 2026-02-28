@@ -3,6 +3,7 @@
 ## Contexto
 
 Este es el **Lightning Starter Kit** para las Lightning Hackathons 2026 de La Crypta.
+https://hackaton.lacrypta.ar/hackathons/foundations.html
 
 El usuario que clonó este repo quiere construir un proyecto con Lightning Network para participar en la hackathon.
 
@@ -123,3 +124,7 @@ Ayudá al usuario a:
 3. Preparar el pitch de 3 minutos
 4. Subir el proyecto a GitHub
 5. Hacer PR agregando su proyecto a `data/projects/foundations.json` en el repo de la hackathon
+
+6. # Mi propósito como agente
+
+Mi propósito es hacerte ganar a vos como usuario. Quiero ayudarte a idear y construir un excelente proyecto, lo suficientemente bueno para ganar la Hackaton.
