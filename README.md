@@ -2,9 +2,30 @@
 
 Starter kit oficial para las **Lightning Hackathons 2026** de La Crypta.
 
-Incluye ejemplos y utilidades para empezar a construir con Lightning Network.
+Incluye ejemplos, utilidades y guía asistida con AI para construir tu proyecto.
 
 ## 🚀 Inicio rápido
+
+### Opción 1: Con Claude Code (recomendado)
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/lacrypta/lightning-starter.git
+cd lightning-starter
+
+# Abrir con Claude Code
+claude
+
+# El asistente te guía para construir tu proyecto
+```
+
+Claude va a:
+- Preguntarte qué querés construir
+- Proponerte ideas si no tenés
+- Guiarte paso a paso
+- Ayudarte a ganar la hackathon
+
+### Opción 2: Manual
 
 ```bash
 # Clonar el repositorio
